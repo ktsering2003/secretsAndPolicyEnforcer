@@ -1,0 +1,3 @@
+file,line,match
+TestFile.java,2,String password = "hunter2";
+TestFile.java,3,String token = "abc123456789";
